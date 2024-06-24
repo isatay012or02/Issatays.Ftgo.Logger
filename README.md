@@ -1,0 +1,1 @@
+# Issatays.Ftgo.Logger
