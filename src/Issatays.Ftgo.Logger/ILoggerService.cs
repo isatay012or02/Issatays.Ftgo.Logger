@@ -6,11 +6,11 @@ public interface ILoggerService
         object data, Dictionary<string, string> additionalFields);
 
     void LogInfo(string action, string message, string customMessage,
-        string data, Dictionary<string, string> additionalFields);
+        object data, Dictionary<string, string> additionalFields);
 
     void LogWarning(string action, string message, string customMessage,
-        string data, Dictionary<string, string> additionalFields);
+        object data, Dictionary<string, string> additionalFields);
 
     void LogError(string action, int code, string message, string customMessage,
-        string data, Dictionary<string, string> additionalFields);
+        object data, Dictionary<string, string> additionalFields);
 }

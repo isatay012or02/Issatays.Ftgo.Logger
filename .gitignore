@@ -14,3 +14,5 @@
 /src/Issatays.Ftgo.Logger/obj/rider.project.model.nuget.info
 /src/Issatays.Ftgo.Logger/obj/rider.project.restore.info
 /.idea/.idea.Issatays.Ftgo.Logger.dir/.idea/vcs.xml
+/.vs/Issatays.Ftgo.Logger
+/src/Issatays.Ftgo.Logger/bin/Debug

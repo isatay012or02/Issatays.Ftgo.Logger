@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Issatays.Ftgo.Logger</id>
+    <version>1.0.0</version>
+    <authors>Issatays.Ftgo.Logger</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" commit="28f17fdb6a1e042edf577478d7b2f99d42870726" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Extensions.Logging" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\source\Issatays.Ftgo.Logger\src\Issatays.Ftgo.Logger\bin\Debug\net8.0\Issatays.Ftgo.Logger.dll" target="lib\net8.0\Issatays.Ftgo.Logger.dll" />
+    <file src="C:\source\Issatays.Ftgo.Logger\LICENSE.txt" target="\LICENSE.txt" />
+    <file src="C:\source\Issatays.Ftgo.Logger\README.md" target="\README.md" />
+  </files>
+</package>
